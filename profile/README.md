@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/@boxline/sdk"><img alt="@boxline/sdk on npm" src="https://img.shields.io/npm/v/@boxline/sdk?label=%40boxline%2Fsdk&color=1f5fe0"></a>
   <a href="https://www.npmjs.com/package/@boxline/mcp"><img alt="@boxline/mcp on npm" src="https://img.shields.io/npm/v/@boxline/mcp?label=%40boxline%2Fmcp&color=1f5fe0"></a>
+  <a href="https://www.npmjs.com/package/@boxline/cli"><img alt="@boxline/cli on npm" src="https://img.shields.io/npm/v/@boxline/cli?label=%40boxline%2Fcli&color=1f5fe0"></a>
   <a href="https://docs.boxline.dev"><img alt="Docs" src="https://img.shields.io/badge/docs-docs.boxline.dev-13233b"></a>
   <img alt="MIT licence" src="https://img.shields.io/badge/licence-MIT-13233b">
 </p>
