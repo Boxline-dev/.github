@@ -27,6 +27,13 @@ flowchart LR
     chrome["Chrome"] <--> disk["/workspace disk"] <--> shell["bash · Python · Node"]
   end
   person(["A person: live view,<br/>take over, hand back"]) -.-> box
+  classDef blue fill:#1f5fe0,stroke:#8fbcff,color:#ffffff
+  classDef navy fill:#13233b,stroke:#2f7bff,color:#ffffff
+  classDef soft fill:#dbe6f7,stroke:#1f5fe0,color:#13233b
+  class api blue
+  class you,person navy
+  class chrome,disk,shell soft
+  style box fill:#0b1830,stroke:#2f7bff,color:#8fbcff
 ```
 
 ## What agents do with it
